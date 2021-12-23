@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  justify-content: end;
+}
+.link {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  text-decoration: none;
+  padding: 20px;
+  color: #062436;
+  text-transform: uppercase;
+}
+
+.button {
+  background-color: #062436;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 7px;
+  text-transform: uppercase;
+  margin-top: 3px;
+}

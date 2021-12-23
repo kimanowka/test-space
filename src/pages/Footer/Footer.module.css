@@ -1,0 +1,12 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  bottom: 0;
+  padding: 20px;
+}
+
+.contacts {
+  display: flex;
+  flex-direction: column;
+}

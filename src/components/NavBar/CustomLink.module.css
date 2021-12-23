@@ -1,0 +1,29 @@
+.wrapper_link {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  text-decoration: none;
+  padding: 20px;
+}
+
+.active_link {
+  background-color: #15526a;
+  display: flex;
+  align-items: center;
+  height: 40px;
+  text-decoration: none;
+  padding: 20px;
+}
+.image {
+  margin-right: 18px;
+}
+.text {
+  color: white;
+  text-transform: uppercase;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 17px;
+  letter-spacing: 0px;
+  text-align: left;
+}
